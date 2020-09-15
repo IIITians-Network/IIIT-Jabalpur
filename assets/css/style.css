@@ -99,6 +99,14 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Navigation Menu
 --------------------------------------------------------------*/
 /* Desktop Navigation */
+
+
+.all-iiit a {
+  color: #121212;
+}
+
+
+
 .nav-menu, .nav-menu * {
   margin: 0;
   padding: 0;
